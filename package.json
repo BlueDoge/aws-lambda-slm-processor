@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bluedoge/aws-lambda-slm-processor/issues"
   },
-  "homepage": "https://github.com/bluedoge/aws-lambda-slm-processor#readme"
+  "homepage": "https://github.com/bluedoge/aws-lambda-slm-processor#readme",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
 }
