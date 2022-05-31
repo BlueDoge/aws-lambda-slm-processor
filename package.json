@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/bluedoge/aws-lambda-slm-processor#readme",
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.100.0",
     "@aws-sdk/types": "^3.78.0",
     "@types/aws-lambda": "^8.10.97",
     "@types/express": "^4.17.13",
